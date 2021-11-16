@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 美院之路 - 金奖
-categories: Blog, Nicky
+categories: Blog Nicky
 description: 大宝的画画之路
 keywords: Nicky, Painting
 ---
