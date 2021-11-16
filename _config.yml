@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://nickyandcoco.github.io
 date_format: "ordinal"
 title: "Nicky and Coco's painting world.
 subtitle: "大宝小宝"
@@ -51,12 +51,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Twnming
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: nickyandcoco
+location: Hangzhou, China
+email: twnming@qq.com
 
 # ---------------- #
 #    Navigation    #
