@@ -14,7 +14,7 @@ repository: nickyandcoco/nickyandcoco.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
-        enabled: true
+        enabled: false
 # 可选组件配置
 components:
     # 分享
@@ -25,7 +25,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2021-11-15
     # My Popular Repositories
     side_bar_repo:
         enabled: false
